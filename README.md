@@ -1,6 +1,6 @@
 # basic-py
 # 👑 DROGBA MODE: UNLEASH THE KING
-![Chelsea FC Logo](https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg)                                 ![Screenshot](images/Screenshot%202025-03-12%20023555.png)
+![Chelsea FC Logo](https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg)                                
 
                                        
 
