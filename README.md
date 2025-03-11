@@ -1,6 +1,7 @@
 # basic-py
 # 👑 DROGBA MODE: UNLEASH THE KING
-![Chelsea FC Logo](https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg)                                            
+![Chelsea FC Logo](https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg)                                  [View ASCII Art](ascii-art.html)
+                                       
 
 
  This is a simple python code showcasing drogbas penalty shootouts against legendry goalkeepers during past finals
